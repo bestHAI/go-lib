@@ -5,7 +5,7 @@ import (
 
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
-	"github.com/penggy/EasyGoLib/utils"
+	"github.com/bestHAI/go-lib/penggy/EasyGoLib/utils"
 )
 
 type Model struct {
